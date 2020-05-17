@@ -10,3 +10,5 @@ Aplikácia je síce jednoduchá, ale spĺňa svoj účel a poskytuje užívaľov
 - **zoznam pripravených jedál**, ktoré si po zjedení môže ľahko pridať a tak mať prehľad o svojich kalóriách a makronutrientoch.
 
 Aplikácia taktiež ponúka možnosť pridať si vlastné jedlá.
+
+Pri tvorbe som experimentoval so SwiftUI a architektúrov MVVM.
